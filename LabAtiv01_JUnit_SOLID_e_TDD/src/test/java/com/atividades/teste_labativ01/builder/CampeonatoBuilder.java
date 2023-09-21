@@ -14,6 +14,7 @@ public class CampeonatoBuilder {
         CampeonatoBuilder builder = new CampeonatoBuilder();
 		
 		builder.campeonato = new Campeonato();
+                builder.campeonato.setId(1);
 		builder.campeonato.setAno(2023);
 		builder.campeonato.setNome("Campeonato Serie A");
 		

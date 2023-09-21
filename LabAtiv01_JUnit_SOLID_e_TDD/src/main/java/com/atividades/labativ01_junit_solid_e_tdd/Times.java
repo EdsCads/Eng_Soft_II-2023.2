@@ -9,12 +9,9 @@ import java.util.ArrayList;
 public class Times {
     private int Id;
     private String nome;
-    private ArrayList <Campeonato> campeonato = new  ArrayList <Campeonato>();
+    private ArrayList <Integer> campeonato = new  ArrayList <Integer>();
 
-    public Times(int Id, String nome) {
-        this.Id = Id;
-        this.nome = nome;
-    }
+    public Times() {    }
 
     public int getId() {
         return Id;
@@ -30,14 +27,14 @@ public class Times {
 
     public void setNome(String nome) {
         this.nome = nome;
-    }
+    } 
 
-    public ArrayList<Campeonato> getCampeonato() {
+    public ArrayList<Integer> getCampeonato() {
         return campeonato;
     }
 
-    public void setCampeonato(ArrayList<Campeonato> campeonato) {
-        this.campeonato = campeonato;
-    }    
+    public void setCampeonato(int componente) {
+        this.campeonato.add(componente);
+    }
     
 }

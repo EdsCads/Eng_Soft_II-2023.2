@@ -5,10 +5,11 @@ package com.atividades.teste_labativ01;
 
 import com.atividades.labativ01_junit_solid_e_tdd.Campeonato;
 import com.atividades.teste_labativ01.builder.CampeonatoBuilder;
-import java.util.Calendar;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Calendar;
+
 
 public class CampeonatoTeste {
     @Test
