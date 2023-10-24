@@ -1,2 +1,14 @@
-com\atividades\teste_labativ01\CampeonatoTeste.class
+com\atividades\teste_labativ01\builder\PartidaBuilder.class
 com\atividades\teste_labativ01\builder\CampeonatoBuilder.class
+com\atividades\teste_labativ01\builder\EstadioBuilder.class
+com\atividades\teste_labativ01\PartidaTeste.class
+com\atividades\teste_labativ01\builder\TimeBuilder.class
+com\atividades\teste_labativ01\ResultadoTeste.class
+com\atividades\labativ01_junit_solid_e_tdd\CampeonatoTest.class
+com\atividades\teste_labativ01\TimeTeste.class
+CampeonatoTeste.class
+com\atividades\teste_labativ01\builder\ResultadoBuilder.class
+com\atividades\teste_labativ01\builder\JogadorBuilder.class
+com\atividades\teste_labativ01\EstadioTeste.class
+com\atividades\teste_labativ01\CampeonatoTeste.class
+com\atividades\teste_labativ01\JogadorTeste.class
